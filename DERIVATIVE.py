@@ -72,12 +72,12 @@ print('')
 print('----------------------------------------------------------------------------------------')
 print('')
 if taxi == '1':
-    print('The 1st partial derivative of',sinartisi,'with respect to',metavliti,'is',paragogos)
+    print('The 1st partial derivative of','f(x)= '+sinartisi,'with respect to',metavliti,'is',paragogos)
 elif taxi == '2':
-    print('The 2nd partial derivative of',sinartisi,'with respect to',metavliti,'is',paragogos)
+    print('The 2nd partial derivative of','f(x)= '+sinartisi,'with respect to',metavliti,'is',paragogos)
 elif taxi =='3':
-    print('The 3rd partial derivative of',sinartisi,'with respect to',metavliti,'is',paragogos)
+    print('The 3rd partial derivative of','f(x)= '+sinartisi,'with respect to',metavliti,'is',paragogos)
 else:
-    print('The',taxi+'th partial derivative of',sinartisi,'with respect to',metavliti,'is',paragogos)
+    print('The',taxi+'th partial derivative of','f(x)='+sinartisi,'with respect to',metavliti,'is',paragogos)
 print('\n----------------------------------------------------------------------------------------')
 
