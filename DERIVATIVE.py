@@ -78,6 +78,6 @@ elif taxi == '2':
 elif taxi =='3':
     print('The 3rd partial derivative of','f(x) = '+sinartisi,'with respect to',metavliti,'is',paragogos)
 else:
-    print('The',taxi+'th partial derivative of','f(x) ='+sinartisi,'with respect to',metavliti,'is',paragogos)
+    print('The',taxi+'th partial derivative of','f(x) = '+sinartisi,'with respect to',metavliti,'is',paragogos)
 print('\n----------------------------------------------------------------------------------------')
 
